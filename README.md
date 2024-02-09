@@ -1,2 +1,3 @@
 # AWS_Jenkins_terraform
-![Uploading jenkins.drawio.png…]()
+
+![jenkins drawio](https://github.com/karam-sudo/AWS_Jenkins_terraform/assets/61522058/e58f093d-7a57-4f78-adcc-3df2d617f26c)
